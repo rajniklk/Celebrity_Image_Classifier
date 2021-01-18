@@ -18,7 +18,7 @@ Technologies used in this project,
 2. Numpy and OpenCV for data cleaning
 3. Matplotlib & Seaborn for data visualization
 4. Sklearn for model building
-5. Jupyter notebook, visual studio code and pycharm as IDE
+5. Jupyter notebook, visual studio code and Spyder as IDE
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
 
